@@ -4,3 +4,4 @@ very bad boy deleted line1
 line4
 line5
 line6
+line7
